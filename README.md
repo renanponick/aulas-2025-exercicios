@@ -26,9 +26,10 @@ Irá conter exercícios e exemplos da aula
 
 9. FUP que calcule a média aritmética das 3 notas de um aluno e mostre, além do valor da média, uma mensagem de "Aprovado", caso a média seja igual ou superior a 7, a mensagem "Recuperação", caso a média se igual ou superior a 5 e inferior a 7, ou a mensagem “Reprovado”, caso a média seja inferior a 5.
 
-10. FUP que calcule o IMC -solicite se é H ou M e faça o calculo;
+10. FUP Solicite se é H ou M, a altura e faça o seguinte calculo de IMC;
 - para homens: (72.7*h)-58
 - para mulheres: (62.1*h)-44.7
+> (h = altura)
 
 11. FUP que solicite a operação (+,-,/,*) e dois numeros, calcule a operação solicitada e informe o resultado;
 12. FUP que peça um número e imprima uma mensagem se esse número é positivo ou negativo;
