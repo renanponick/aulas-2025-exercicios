@@ -129,6 +129,7 @@ Após, deve ser realizado uma análise das respostas e no final emitir uma class
 
 > Desafio 8) Leia um array referente a notas de uma prova. Informe a maior nota, a menor notae a média das notas da prova. Imprima quais os alunos tiraram a menor nota e a maior nota. Para saber  quais alunos tiraram a nota maior e menor imprima o índicedo vetor (equivalente ao número da chamada do aluno).
 
+# Exercícios Switch Case
 
 31. FUP que leia um número inteiro de 1 a 3 e imprima o tipo de combustível correspondente, sendo 1 - Álcool, 2 - Gasolina, 3 - Diesel, utilizando a estrutura switch case. Implemente uma função que recebe o número e retorna o tipo de combustível correspondente.
 32. FUP que leia um número inteiro de 1 a 7 e imprima o dia da semana correspondente, utilizando a estrutura switch case. Implemente uma função que recebe o número e retorna o nome do dia da semana correspondente.
